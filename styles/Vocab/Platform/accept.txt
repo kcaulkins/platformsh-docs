@@ -37,6 +37,8 @@ hostname
 Httpoxy
 Ibexa
 imagetragick
+JMS
+JPA
 jpegoptim
 Lando
 Lucene
